@@ -1,6 +1,6 @@
 # 📦 String Compression using Pattern Matching
 
-This project explores and implements efficient **string matching algorithms** to perform **lossless data compression**. It is a part of my Data Structures & Algorithms (DSA) work aimed at optimizing storage and search operations using classic algorithmic techniques.
+This project explores and implements efficient **string matching algorithms** to perform **lossless data compression**. It is a part of my Data Structures & Algorithms (DSA) Lab work aimed at optimizing storage and search operations using classic algorithmic techniques.
 
 ---
 
